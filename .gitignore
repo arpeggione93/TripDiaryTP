@@ -1,0 +1,3 @@
+
+target/classes/jdbc.properties
+src/main/webapp/WEB-INF/spring/jdbc.properties
